@@ -1,12 +1,12 @@
 # TPs Programmation Web II à ESEN
 
-Ce Répertoire contient le code source des TPs enseignés à l'[Ecole Supérieure de l'Economie Numérique](https://www.esen.tn) dans le cadre du cours *Programmation Web 2*.
+Ce Répertoire contient le code source des TPs enseignés à l'[École Supérieure de l'Économie Numérique](https://www.esen.tn) dans le cadre du cours *Programmation Web 2*.
 
 ## Equipe
 
 * [Nassim Bahri](https://www.nassimbahri.ovh) - Enseignant du cours
 * Maha Ncibi - Enseignante des TPs
-* Slim Kassis - Enseignant des TPs
+* [Slim Kassis](https://www.linkedin.com/in/mohamed-slim-kassis-b8aba316/) - Enseignant des TPs
 
 ## Prérequis
 
@@ -24,7 +24,7 @@ Il faut installer l'un des outils suivants sur votre machine :
 
 3. Déplacez le dossier décompressé dans votre répertoire de travail (dossier `htdocs`)
 
-4. Ouvrez l'adresse `127.0.0.1/` dans votre navigateur.
+4. Ouvrez l'adresse `127.0.0.1/progweb2` (ou `localhost/progweb2`) dans votre navigateur.
 
 ## License
 
