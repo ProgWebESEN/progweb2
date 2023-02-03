@@ -18,14 +18,15 @@ Il faut installer l'un des outils suivants sur votre machine :
 
 ## Téléchargement et configuration
 
-1. Téléchargez le projet sur votre machine
+1. Téléchargez le projet sur votre machine.
 
-2. Décompressez le dossier téléchargé
+2. Décompressez le dossier téléchargé.
 
-3. Déplacez le dossier décompressé dans votre répertoire de travail (dossier `htdocs`)
+3. Déplacez le dossier décompressé dans votre répertoire de travail (dossier `htdocs`) et changez son nom pour `progweb2`.
 
 4. Ouvrez l'adresse `127.0.0.1/progweb2` (ou `localhost/progweb2`) dans votre navigateur.
 
+<ins>PS : N'oubliez pas de démarrer Apache.</ins>
 ## License
 
 Ce projet est sous licence [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/). 
