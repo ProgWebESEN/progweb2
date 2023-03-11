@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>TD POO</title>
+    </head>
+    <body>
+        <h1>Création de livres</h1>
+        <form name="Formulaire_Livre" method="GET" action="Livre.php">
+            <p>
+                <label for="titre">Titre de livre :</label>
+                <input type="text" name="titre" id="titre" placeholder="titre de votre livre">
+            </p>
+            <p>
+                <label for="annee">Année d'apparition du livre :</label>
+                <input type="number" name="annee" id="annee" min="1980" max="2023" value="2023">
+            </p>
+            <p>
+                <button type="submit">Envoyer</button>
+                <button type="reset">Effacer</button>
+            </p>
+        </form>
+    </body>
+</html>
