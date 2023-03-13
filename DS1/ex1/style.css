@@ -1,0 +1,24 @@
+body{
+    margin: 0 auto;
+    border: 1px solid #000;
+    margin:100px;
+    width: auto;
+    border-radius: 5px;
+    padding: 10px;
+    width: 350px;
+}
+h1{
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+}
+input, select{
+    width: 200px;
+    display: block;
+    margin-top: 10px;
+}
+.alert{
+    background-color: rgb(255, 243, 205);
+    border-radius: 5px;
+    padding: 5px 10px;
+}
