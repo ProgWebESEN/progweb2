@@ -4,7 +4,7 @@
  */
 function connexionDB(){
     try{
-        $db = new PDO("mysql:host=localhost;dbname=biblio_esen", "root", "nassim");
+        $db = new PDO("mysql:host=localhost;dbname=biblio_esen", "root", "");
         $db->query("SET NAMES 'utf8'");
         return $db;
     }
